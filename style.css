@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0c0c0c;
+}
+
+a {
+    display: block;
+    color: darkred;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 21px;
+}
